@@ -1,0 +1,64 @@
+[
+  {
+    "Sale ID": "b099d76b-2432-4022-a523-3c352c205533",
+    "Customer ID": "S001",
+    "Date": "2025-06-02T21:24:25.850530",
+    "Total": 2.5,
+    "Payment Status": "Pending",
+    "Items": [
+      {
+        "Sale Line ID": "c0db7818-673b-40b0-9ef9-704f1de12e4c",
+        "Item ID": "T101",
+        "Item Name": "Pending - Cityone",
+        "Quantity": 1,
+        "Unit Price": 2.5,
+        "Subtotal": 2.5,
+        "Transaction": {
+          "Transaction ID": "T652CC8C3",
+          "Type": "Refund",
+          "Date": "2025-06-02T21:28:32.342273",
+          "Status": "Refunded",
+          "Amount": 2.5,
+          "QR Code ID": "QR6BE81E94"
+        }
+      }
+    ],
+    "Payment Method": {
+      "Payment Type": "Credit Card",
+      "Masked Number": "************1111",
+      "Expiry Date": "12/2026",
+      "Provider Name": "Visa"
+    }
+  },
+  {
+    "Sale ID": "4d221ccc-e530-4509-939d-19ecc28461b2",
+    "Customer ID": "S003",
+    "Date": "2025-06-02T23:56:26.968936",
+    "Total": 2.5,
+    "Payment Status": "Pending",
+    "Items": [
+      {
+        "Sale Line ID": "1e3bfb2a-82f2-4291-ae81-6d11c32f962b",
+        "Item ID": "T104",
+        "Item Name": "Pending - Cityone",
+        "Quantity": 1,
+        "Unit Price": 2.5,
+        "Subtotal": 2.5,
+        "Transaction": {
+          "Transaction ID": "TCEEF3629",
+          "Type": "Refund",
+          "Date": "2025-06-02T23:56:32.838091",
+          "Status": "Refunded",
+          "Amount": 2.5,
+          "QR Code ID": "QR87D9A620"
+        }
+      }
+    ],
+    "Payment Method": {
+      "Payment Type": "Credit Card",
+      "Masked Number": "************1111",
+      "Expiry Date": "12/2026",
+      "Provider Name": "Visa"
+    }
+  }
+]

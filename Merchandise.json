@@ -1,0 +1,36 @@
+[
+    {
+        "item_id": "M001",
+        "name": "Guidebook",
+        "price": 15.9,
+        "description": "Comprehensive travel guide.",
+        "availability": 10,
+        "category": "Books",
+        "image_url": "https://example.com/images/guidebook.jpg",
+        "last_restocked": "2025-05-21T21:10:14.424439",
+        "rating": 4.5
+
+    },
+    {
+        "item_id": "M002",
+        "name": "Souvenir Mug",
+        "price": 12.5,
+        "description": "Printed ceramic mug.",
+        "availability": 25,
+        "category": "Souvenirs",
+        "image_url": "https://example.com/images/mug.jpg",
+        "last_restocked": "2025-05-26T11:49:10.171527",
+        "rating": 4.0
+    },
+    {
+        "item_id": "M003",
+        "name": "Hoodie",
+        "price": 49.9,
+        "description": "Comfortable hoodie with ART branding.",
+        "availability": 15,
+        "category": "Apparel",
+        "image_url": "https://example.com/images/hoodie.jpg",
+        "last_restocked": "2025-06-01T10:00:00",
+        "rating": 4.8
+    }
+]

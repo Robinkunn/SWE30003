@@ -1,0 +1,22 @@
+[
+    {
+        "sarawak_id": "S002",
+        "password_hash": "8d969eef6ecad3c29a3a629280e686cf0c3f5d5a86aff3ca12020c923adc6c92",
+        "full_name": "Deron",
+        "email": "deron@gmail.com",
+        "phone": "0123456789",
+        "nric": "020202130202",
+        "role": "Inquiry Manager",
+        "department": "Inquiry Department"
+    },
+    {
+        "sarawak_id": "S004",
+        "password_hash": "8d969eef6ecad3c29a3a629280e686cf0c3f5d5a86aff3ca12020c923adc6c92",
+        "full_name": "Abu",
+        "email": "abu@gmail.com",
+        "phone": "0128888888",
+        "nric": "020202020202",
+        "role": "Receptionist",
+        "department": "Service Crew"
+    }
+]

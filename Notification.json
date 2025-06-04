@@ -1,0 +1,57 @@
+[
+  {
+    "message_id": "48397e97-5db8-4d8e-accc-3a6148dcdddb",
+    "sender_id": "S002",
+    "receiver_id": "S001",
+    "timestamp": "2025-06-02 21:43:26",
+    "subject": "Response to Your Inquiry: Dummy",
+    "content": "Dear Customer,\n\nYour inquiry has been addressed by our staff.\n\nResponse:\nDummy Response\n\nRegards,\nCustomer Support",
+    "notification_type": "inquiry_response",
+    "is_read": false,
+    "is_removed": false
+  },
+  {
+    "message_id": "dd0745f0-427b-4c68-90f9-30f335132d55",
+    "sender_id": "S004",
+    "receiver_id": "S003",
+    "timestamp": "2025-06-03 00:16:56",
+    "subject": "Response to Your Inquiry: Dummy",
+    "content": "Dear Customer,\n\nYour inquiry has been addressed by our staff.\n\nResponse:\nDummy Response\n\nRegards,\nCustomer Support",
+    "notification_type": "inquiry_response",
+    "is_read": true,
+    "is_removed": true
+  },
+  {
+    "message_id": "bca3c48a-99fe-48a8-bc66-071a01aae41f",
+    "sender_id": "SYSTEM",
+    "receiver_id": "S003",
+    "timestamp": "2025-06-03 00:46:31",
+    "subject": "Trip Rescheduled Successfully",
+    "content": "Your trip 'Pending - Cityone' (ID: T104) has been successfully rescheduled.",
+    "notification_type": "trip_reschedule",
+    "is_read": false,
+    "is_removed": true
+  },
+  {
+    "message_id": "8b6d6c0c-7472-47b2-bb8a-bd04cc86fbcb",
+    "sender_id": "SYSTEM",
+    "receiver_id": "S003",
+    "timestamp": "2025-06-03 16:10:52",
+    "subject": "Refund Processed Successfully",
+    "content": "Your refund for trip 'Pending - Cityone' (ID: T104) has been processed. Refund amount: RM2.50. The amount will be credited to your original payment method within 3-5 business days.",
+    "notification_type": "trip_refund",
+    "is_read": false,
+    "is_removed": false
+  },
+  {
+    "message_id": "2609b803-44a5-4731-9d63-f24582d0ae55",
+    "sender_id": "SYSTEM",
+    "receiver_id": "S001",
+    "timestamp": "2025-06-04 21:17:01",
+    "subject": "Refund Processed Successfully",
+    "content": "Your refund for trip 'Pending - Cityone' (ID: T101) has been processed. Refund amount: RM2.50. The amount will be credited to your original payment method within 3-5 business days.",
+    "notification_type": "trip_refund",
+    "is_read": false,
+    "is_removed": false
+  }
+]

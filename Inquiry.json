@@ -1,0 +1,22 @@
+[
+    {
+        "message_id": "330a5b15-903a-4b30-a525-593047b9755d",
+        "sender_id": "S001",
+        "subject": "Dummy",
+        "content": "Dummy Message",
+        "category": "Technical Support",
+        "response": "Dummy Response",
+        "responder_id": "S002",
+        "resolved": true
+    },
+    {
+        "message_id": "13160134-b3f4-4028-8f9f-7d8021eb4190",
+        "sender_id": "S003",
+        "subject": "Dummy",
+        "content": "Dummy Message",
+        "category": "Technical Support",
+        "response": "Dummy Response",
+        "responder_id": "S004",
+        "resolved": true
+    }
+]

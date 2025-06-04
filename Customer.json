@@ -1,0 +1,50 @@
+[
+    {
+        "sarawak_id": "S001",
+        "password_hash": "8d969eef6ecad3c29a3a629280e686cf0c3f5d5a86aff3ca12020c923adc6c92",
+        "full_name": "John",
+        "email": "john@gmail.com",
+        "phone": "0161234567",
+        "nric": "010101130101",
+        "gender": "Male",
+        "age": 25,
+        "nationality": "Malaysian",
+        "occupation": "Engineer",
+        "dob": "2001-01-01",
+        "address": "1, Jalan Mendu, 93350, Kuching",
+        "loyalty_points": 0,
+        "payment_methods": [
+            {
+                "Payment Type": "Credit Card",
+                "Masked Number": "************1111",
+                "Expiry Date": "12/2026",
+                "Provider Name": "Visa",
+                "Is Valid": true
+            }
+        ]
+    },
+    {
+        "sarawak_id": "S003",
+        "password_hash": "8d969eef6ecad3c29a3a629280e686cf0c3f5d5a86aff3ca12020c923adc6c92",
+        "full_name": "Ali",
+        "email": "ali@gmail.com",
+        "phone": "0168888888",
+        "nric": "010101010101",
+        "gender": "Male",
+        "age": 20,
+        "nationality": "Malaysian",
+        "occupation": "Student",
+        "dob": "2004-10-10",
+        "address": "No. 30, Jalan Heaven, Kuching",
+        "loyalty_points": 0,
+        "payment_methods": [
+            {
+                "Payment Type": "Credit Card",
+                "Masked Number": "************1111",
+                "Expiry Date": "12/2026",
+                "Provider Name": "Visa",
+                "Is Valid": true
+            }
+        ]
+    }
+]
